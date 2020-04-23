@@ -1,0 +1,126 @@
+Society is undergoing a radical change in the way we communicate and act, since many sectors of activity are adopting
+the use of mobile technology to offer services. This change is only possible because the world is becoming more connected
+and mobile, a trend that will cause a (re)structuring of education.
+Mobile technologies, particularly tablets and smartphones, are quickly becoming technologies powerful enough to override personal computers in several tasks with the advancement of wireless and mobile technology. While these technologies
+have dramatically transformed our society in the way we communicate, create, retrieve and share information, collaborate
+and socialize each other, the application of these technologies is still relatively recent (West, 2014).
+By the end of 2011, there were about 6 billion mobile subscriptions worldwide, and in developing countries most people
+access the Internet from their mobile devices (ITU, 2012). ITU (2013) shows that the world has almost as many mobile
+subscriptions as inhabitants. For example, mobile broadband subscriptions grew from 268 million in 2007 to 2.1 billion in 2013: an average annual growth rate of 40%. In 2020, digital technology will be incorporated and distributed in most
+objects. Personal artifacts such as keys, clothes, shoes, books and newspapers will have embedded devices which can communicate with each other (Daanen and Facer, 2007).
+In this context, mobile technologies are being used to complete everyday tasks and to learn informally, by accessing the
+biggest information ‘‘library” of the world, the Internet. Thus, students can use mobile technology anywhere and at any time
+to access educational resources.
+Mobile learning has become a research field of interest of practitioners in the different phases of education to facilitate
+learning in various contexts (Pachler et al., 2010). The key aspects of this interest is the growing importance and their use, in
+the day-by-day, by students in the most varied activities, and the increasing portability of these technologies, as well as the
+reduction in their cost and services (Vinu et al., 2011).
+Today, mobile devices are all-purpose computing devices, including multi-core processors, high-resolution, touchsensitive, with various sizes and network connectivity (WiFi, 3G, 4G, ...), and have a variety of sensors, such as cameras,
+accelerometers, etc, which increase their potential for use in education. Significant investments were made to provide infrastructure, content and resources related to the integration of mobile devices in learning environments (Johnson et al., 2011).
+These mobile devices have become a kind of personal ecosystem (Sharples, 2011).
+In developing countries, people have more mobile phones than computers, since they are ignoring the phases of the personal computer and laptop computer and are directly adopting mobile phones as indicated by Leblois (2013), which has provided to the educational agents a unique opportunity to define new teaching-learning processes (TLP) through mobile
+devices.
+Making use of this technology stimulates the interest in learning the taught content, becoming a promoter of learning
+factor that leading to the training of competent students, open horizons and predisposed to invest in innovation (Baran,
+2014; Ross et al., 2010) and encourages their integration in the classroom. Kenney (2011) states that since technology is
+so present in the daily lives of adolescents, a class without their use is completely uninteresting.
+In recent decades, it has been recognized the added value of the use of technological tools in the classroom and, since
+then, efforts have been made by different stakeholders in the field of education, including the scientific community and governments, towards their use and consequent TLP improvement. Shrivastava and Shrivastava (2014) state that ‘‘while the
+emerging political economy of higher education suggests an increase in the diversity of educational contexts, technology assisted
+learning could indeed offer an important toolkit with which to increase choice and respond to the needs arising”.
+Naismith et al. (2004) agree with the argument that mobile devices offer motivating learning experiences, arguing
+that the devices can be used ‘‘dynamically, in many different settings, giving access to a broad range of uses and situated
+learning activities”. The authors state that the personal nature of mobile devices means that they are able to engage students in individualized learning experiences, providing greater ownership and responsibility to the students about their
+own work.
+The advent and use of mobile technologies have led to the emergence of the concept of Bring Your Own Device (BYOD).
+This concept appeared in 2007, in a business context, as ‘‘the practice of allowing employees of an organization to use their own
+computers, smartphones or other devices for work purposes” (Dictionaries, n.d.). This practice has surpassed the organizational
+barriers and began to be used widely. According to Akuity (2014), IDC indicates that in 2016 there will be 480 million phones
+throughout the world and 65% of these devices will be used to BYOD. It is also expected an increase of 181.39 billion dollars
+in the BYOD market in 2017. Taking into account that this market was worth only 67,210 million in 2011, i.e., it is expected
+an increase of 200% in six years.
+Learning supported by mobile technologies is becoming a new approach towards education, and it is unique in the way
+that offers opportunities to learn anywhere and anytime (Lee and Salman, 2012; Pachler et al., 2011). On the other hand,
+collaborative learning has long been believed to hold great value for education, but creating a collaborative learning experience inside and outside of the classroom is a challenge with which teachers continue to struggle, since there are several
+obstacles e.g. their own preparation for the introduction of this learning approach (DGEEC, 2012). Additionally, there are
+no consensuses in interpreting collaborative learning; it varies in focus according to the literature (see Section 2.1). However,
+new educational application – educational apps (Google, n.d.) have, at least in some contexts, begun to transform the way
+teachers teach, students learn, and teachers and students interact.
+The main goal of this study is the evaluation of the adoption and usage trends of mobile devices in the TLP in Higher Education Institutions (HEI) in Portugal (North region) between 2009/2010 and 2014/2015, being an evolution of the work
+(Ferreira et al., 2015) where more general results have been analyzed and discussed.
+In order to achieve the proposed goal was adopted as research methodology a quantitative approach with a fundamentally rationalist basis. Regarding data collection instruments, we used a closed questions survey questionnaire and the necessary statistical procedures, and tools (IBM SPSS Statistics 20.0) to analyze its results (Baran, 2014). This questionnaire
+entailed a set of closed questions (16 questions), aiming to assess developments and trends of the mobile devices utilization.
+The paper is structured as follows. Section 2 critically examines mLearning and collaborative learning. Section 3 presents
+the state of the art in collaborative learning with mobile devices in Portugal in HEI. Section 4 presents the methodology. Section 5 summarizes the results and discussion of the research and lastly, Section 6 presents the study limitations and 7 presents the study conclusions.
+
+The concept of Mobile Learning (mLearning) is not new, but it is important to analyze its ‘‘origins” and evolution. Georgiev
+et al. (2004), among others, consider the mLearning as an evolution of distance learning (dLearning) and electronic/digital
+learning (eLearning). In this context, it is possible to assess that eLearning and mLearning are two interconnected concepts;
+however, the ubiquity and sensitivity to context are mobility aspects that made the mLearning a single and unique approach
+in TLP. It is therefore important to analyze the evolution of the mobile market since this technology is the mLearning support
+and leads directly to its evolution.
+2.1. Evolution and utilization of mobile devices
+The evolution of the mobile market in the EU has had an accentuated growth, and the origin of this increase can be analyzed in different perspectives, such as the type of devices, the use of the Internet and/or use of mobile Internet, potentiated
+by mobile vs age range. Thus, the interest in tablets and smartphones is higher (and growing) when compared to PCs or even
+laptops. This dynamic led to a significant increase in the sales of the former and their consequent massification (Seybert,
+2012).
+Analyzing the perspective of the use of Internet (see graph in Fig. 1 (Seybert, 2012)), it is possible to realize that the percentage of individuals who use the internet anywhere is very high when the average rate in the EU is >70% (see Fig. 2).
+With regard to the use of mobile Internet (potentiated by the mobile devices vs age range), the distribution focuses on
+formative period (between 16 and 24 years), where the highest values derive from the use of mobile devices.
+2.2. mLearning
+When analyzing the evolution of mLearning concept, it is to highlight Viteli’s (2000) article, written 15 years ago, and
+specifically the following statement: ‘‘The concept of mLearning is yet very unknown. On 15th of September 2000 the Google provided 40 links to mLearning and 29.900 to eLearning”, while Costa and Xavier (2014) by performing a search on Google in July
+2014 found approximately 252 million links to eLearning and 231 million links to mLearning that demonstrates the interest
+and the work done around this topic.
+Mobile Learning (mLearning) can be defined as a way of learning that makes use of mobile communication technologies
+and gives to the students the capacity to learn anywhere and anytime. This definition is based on the definition presented by
+(O’Malley et al., 2003) ‘‘Any sort of learning that happens when the learner is not at a fixed, predetermined location, or learning
+that happens when the learner takes advantage of the learning opportunities offered by mobile technologies”.
+Mobile learning can be defined as the learning that occurs linked to mobile devices (Winter, 2006). Mobile devices include
+mobile equipment (laptops, tablets and smartphones) which has been undergoing a very strong evolution from the point of
+view of capacity, reliability and, at a more economic perspective, a great reduction in prices. They have come to endow their
+installations with wi-fi networks, which by on the one hand, promoting and fostering the use of those devices and, on the
+other hand, allow the evolution of the TLP.
+mLearning, according to Traxler (2013), offers five features that potentiate new learning opportunities: (i) contextual
+learning allows students to respond and react to experiences lived in different contexts; (ii) located learning, learning occurs
+in the applicable environments; (iii) the authentic learning, with tasks directly related to the objectives that want to reach;
+
+
+(iv) the conscious learning of the context in which is informed by the history and objectives; and (v) personalized learning,
+that is, directed to the preferences of each student.
+Oppositely to other kind of learning activities, the TLP with mobile devices began with the assumption that students are
+always on the go and have activities in line with the context in which they are. In this context, Looi et al. (2010) argue that
+mobile devices provide the integration of education in school and beyond, with continued learning experience. In the same
+direction, UNESCO (2012) has prepared its guidance projects for mLearning and recognizes that the value of mobile technology is significantly higher when students continually learn from their mobile devices (BYOD) as ubiquitous mediators
+between types of learning, for example collaborative learning, that is part of the current educational paradigms that are closely related to the pedagogical theories (Naismith et al., 2004), such as constructivism (Jonassen et al., 1994), behaviorism
+(Phillips, 1998), situated learning (Lave, 1991), problem-based learning (Koschmann, 1996), learning-oriented context
+(Krause et al., 2006), social learning (Wenger, 2007) and collaborative learning (Dillenbourg, 1999).
+According to Panitz (1996), collaboration is an interaction philosophy and a personal lifestyle. In this context, it is possible
+to state that collaborative learning is more than a classroom approach; it is a way to deal with people that respects and
+emphasizes individual skills and contributions of each member of a group. All group members share responsibilities and
+authority, thus giving a more active role to stakeholders in the learning process.
+Group learning can be interpreted in several ways: (i) presential or virtual learning; (ii) synchronous or asynchronous.
+This type of learning allows the effort made by learners to be fully together or through the division of tasks. Therefore,
+the practice of collaborative learning may assume multiple characterizations, although there might be dynamics, and results,
+of learning to each specific context, namely when the means used are diverse, from personal computer to mobile devices.
+Collaborative learning (Torres and Irala, 2014) is part of a set of pedagogical trends: (i) Movement of the New School; (ii)
+Theories of Genetic Epistemology of Piaget; (iv) Socio-cultural Theory of Vygotsky and; (v) Progressive pedagogy.
+According to the same authors, the New School pedagogy and Progressive education, together with cognitive theories formulated by Piaget and Vygotsky, generates the foundations of collaborative learning, which have led to a shift from classes
+focused on the teacher, with static and repetitive contents to classes focused on the students and a critical apprehension of
+contents.
+
+According to the literature, the use of mobile devices for educational purposes using different methods and devices has
+been applied around the world. All across the globe, students from elementary school to high school are increasingly
+engaged with advanced wireless devices to collaborate with peers, access rich digital content, and personalize their learning
+experiences. Always-on, always-connected, smartphones and tablets provide today’s students with a ubiquitous gateway to
+a new ecosystem of information, experts, and experiences, regardless of the physical assets and resources in their own
+communities.
+The study of the evolution and trends in the use of mobile devices in the HIE in Portugal between 2009/10 and 2014/15 is
+interesting and has been the subject of extensive research, in particular as regards the comparison between the developed
+and developing countries, as will be shown in Table 1. However, as it will be shown, there is no study in Portugal nor abroad
+that could serve as a comparison to analyze the rate of adoption and trends of mobile devices in Portugal compared to other
+countries.
+Before presenting some of the existing studies, it is necessary to verify that in developing and in developed countries the
+rate of adoption of mobile devices in society and education is very interesting. For example, Niess (2005) shows that one of
+the teachers’ training goals in the US and UK (developed countries) is to encourage students to be active builders of knowledge through the use of mobile technologies, successfully aligning a variety of models of learning. One of the models that are
+best suited to mobile technologies is the learning collaborative model.
